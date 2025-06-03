@@ -29,7 +29,10 @@ I am a **passionate Software Development** student with a special focus on Full 
 3.	**[Food Mobile Aplication](https://www.figma.com/proto/4kVvifH5z1wmtFozGaeLyx/Prototipo-Fidelidad-Alta?node-id=199-2219&t=59DITcgotTWZJtXf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=199%3A2219)**
     - Technologies: *Figma, Canva, Whimsical.*
     - Implemented a high-fidelity mobile app prototype for a food e-commerce, including practical user interface design, elegant and dinamic, and user flow mockups to enhance the user experience.
-4.	**Personal Portfolio**
+4.  **[Polo IT: Portal Mascotas](https://github.com/JesyGomez/PortalMascotas-PoloIT)**
+    - Technologies: *React, Node.js, Python 3, XAMPP.*
+    - Implemented a CRUD system for managing posts with relational databases.
+5.	**Personal Portfolio**
     - Technologies: *HTML, CSS, JavaScript.*
     - Modern design showcasing my projects and skills.
 
