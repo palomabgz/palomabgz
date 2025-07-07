@@ -32,7 +32,10 @@ I am a **passionate Software Development** student with a special focus on Full 
 4.  **[Polo IT: Portal Mascotas](https://github.com/JesyGomez/PortalMascotas-PoloIT)**
     - Technologies: *React, Node.js, Python 3, XAMPP.*
     - Implemented a CRUD system for managing posts with relational databases.
-5.	**Personal Portfolio**
+5.	**[API RESTful (BackEnd)](https://github.com/palomabgz/proyectobackendtt)**
+    - Technologies: *Node.js, Express, Firebase.*
+    - Developed a RESTful API to handle data operations and user authentication with Firebase integration.
+6. **Personal Portfolio**
     - Technologies: *HTML, CSS, JavaScript.*
     - Modern design showcasing my projects and skills.
 
