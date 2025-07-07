@@ -10,7 +10,7 @@ I am a **passionate Software Development** student with a special focus on Full 
 - **Recent and ongoing courses:**
     - **Frontend Web Development** | *UTN*: Developed a pet e-commerce plataform. HTML, CSS, React, Bootstrap, SQL, CRUD and GitHub.
     - **Fullstack Web Development** | *CUDI*: Developed a blog plataform. HTML, CSS, React, MongoDB, Postman, JWT.
-    - **Backend Web Development** | *Talento Tech*: Developed a plataform. HTML, CSS, Node.js and Express.
+    - **Backend Web Development** | *Talento Tech*: Developed a plataform. HTML, CSS, Node.js, Express, Firebase and JWT.
     - **Frontend Web Development** | *Talento Tech*: Developed a pet e-commerce plataform. HTML, CSS, React, Bootstrap and GitHub.
     - **Web UX/UI Design** | *Codo a Codo*: Developed a food mobile aplication. Figma, User research, information architecture, experience design, interface design, collaboration and communication, evaluation and optimization.
 
